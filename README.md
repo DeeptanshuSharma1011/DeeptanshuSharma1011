@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Google Cloud Services**
 
-- - 👨‍💻 All of my projects are available at [https://deeptanshuportfolio.framer.website/](https://deeptanshuportfolio.framer.website/)
+- 👨‍💻 All of my projects are available at [https://deeptanshuportfolio.framer.website/](https://deeptanshuportfolio.framer.website/)
 
 - 📫 How to reach me **deepusteam1011@gmail.com**
 
