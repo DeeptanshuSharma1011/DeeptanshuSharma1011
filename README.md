@@ -18,8 +18,53 @@
 <a href="https://linkedin.com/in/deeptanshu sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deeptanshu sharma" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<table align="center">
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,java,c,python"/></td>
+    </tr>
+      <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nextjs,react,tailwind,sass,bootstrap,redux,materialui,html,css"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,postman,redis"/><img height="40" src="https://imgs.search.brave.com/f4RnlZ2475hE0WW0UVIxWR291pSHpgJbK_xZEHm6QoI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9zb2NrZXQt/aW8taWNvbi01MTJ4/NTExLXhqcDdreng2/LnBuZw" alt="Socket.io" width="40" height="40" style="margin-left: 10px;"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mongodb,mysql"/></td>
+    </tr>
+     <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Python Frameworks:</td>
+    <td>
+        <img height="40" src="https://skillicons.dev/icons?i=flask"/>
+        <img height="40" src="https://imgs.search.brave.com/CjiZ1b8Me_qlPgtNygMwHznMU51jEt21ik_x4Z3p7ug/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pY29u/LmljZXBhbmVsLmlv/L1RlY2hub2xvZ3kv/c3ZnL1N0cmVhbWxp/dC5zdmc"/>
+    </td>
+</tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Deployment:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vercel,netlify"/> <img src="https://imgs.search.brave.com/Qn2UAITMoDk1dYMEGxA8Wg94ku4GMHs02rjfdV_ApAw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9nZXRk/ZXBsb3lpbmcuY29t/L3N0YXRpYy9pbWcv/bG9nb3MvcmVuZGVy/LjkwZmZhMGY3NzZi/NS5wbmc" alt="Render" width="40" height="40"/> 
+        <img src="https://imgs.search.brave.com/wzB0ayC7TSduwjmXsnsgrqCA-bgLvPpz-crKmgo6VA4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aW1hZ2VzLmhpbWFs/YXlhcy5hcHAvMms4/eGVsbmI3eTg4aGU3/OHN0MHhsdm1wZTc3/cQ" alt="Railways" width="40" height="40"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,replit"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=npm,bun,appwrite,flutter,notion,androidstudio,firebase,figma,supabase"/><img src="https://imgs.search.brave.com/acMhc0fYPEVXN2RVICLf-WgKTQQbOnnF-Cn4DmuvHAg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93YWMt/Y2RuLmF0bGFzc2lh/bi5jb20vZGFtL2pj/cjpmYTAxNzU2ZC02/ZGNjLTQ1ZDEtODNh/Yi02OTZmYmZlYjA3/NGYvSmlyYS1pY29u/LWJsdWUuc3ZnP2Nk/blZlcnNpb249MjQ0/Nw" alt="Jira" width="40" height="40"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,apple"/></td>
+    </tr> 
+</table>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deeptanshusharma1011&show_icons=true&locale=en&layout=compact" alt="deeptanshusharma1011" /></p>
 
