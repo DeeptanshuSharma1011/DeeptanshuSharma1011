@@ -1,12 +1,12 @@
 ![logo](https://github.com/DeeptanshuSharma1011/DeeptanshuSharma1011/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Deeptanshu Sharma</h1>
-<h3 align="center">A passionate Website Developer and Designer from India</h3>
+<h3 align="center">A Full Stack Developer and Designer from India</h3>
 
 <img align="right" alt="client and designer" width="400" src="https://i.pinimg.com/originals/7f/42/96/7f42961ece8c7cd16a1384ffd16812eb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeptanshusharma1011&label=Profile%20views&color=0e75b6&style=flat" alt="deeptanshusharma1011" /> </p>
 
-- 🌱 I’m currently learning **Google Cloud Services**
+- 🌱 I’m currently learning **Data Science and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://deeptanshuportfolio.framer.website/](https://deeptanshuportfolio.framer.website/)
 
