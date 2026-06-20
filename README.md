@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/deeptanshus_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deeptanshus_10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/deeptanshu sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deeptanshu sharma" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/deeptanshu-sharma-5814672b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deeptanshu sharma" height="30" width="40" /></a>
 <a href="https://instagram.com/deepu.shrma10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepu.shrma10" height="30" width="40" /></a>
 </p>
 
@@ -41,13 +41,13 @@
         </td>
     </tr>
      <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Python Frameworks:</td>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Python Libraries:</td>
     <td>
-        <img height="40" src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn"/>
-        <img height="40" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnOVjTWaheo4E99cgYZ6y14tpsgHlm0VN8Hw&s](https://techicons.dev/icons/pandas)" width="40" style="margin-left: 10px;">
-        <img height="40" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnOVjTWaheo4E99cgYZ6y14tpsgHlm0VN8Hw&s](https://seeklogo.com/vector-logo/398690/numpy)" width="40" style="margin-left: 10px;">
-        <img height="40" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnOVjTWaheo4E99cgYZ6y14tpsgHlm0VN8Hw&s](https://commons.wikimedia.org/wiki/File:Matplotlib_icon.svg)" width="40" style="margin-left: 10px;">
-        <img height="40" src="[[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnOVjTWaheo4E99cgYZ6y14tpsgHlm0VN8Hw&s](https://commons.wikimedia.org/wiki/File:Logo-seaborn.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Logo-seaborn.png/330px-Logo-seaborn.png)" width="40" style="margin-left: 10px;">
+        <img height="40" src="https://skillicons.dev/icons?i=python" />
+        <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+        <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+        <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
+        <img height="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
     </td>
 </tr>
     <tr>
@@ -60,9 +60,17 @@
         </td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,cursor,antigravity,googleaistudio"/></td>
-    </tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
+    <td>
+        <img height="40" src="https://skillicons.dev/icons?i=vscode,cursor" />
+        <img height="40" width="40"
+        src="https://avatars.githubusercontent.com/u/182288589?s=200&v=4"
+        alt="Antigravity" style="margin-left:10px;" />
+        <img height="40" width="40"
+        src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_668e6f4b7c.png"
+        alt="Google AI Studio" style="margin-left:10px;" />
+    </td>
+</tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=figma,notion"/>
