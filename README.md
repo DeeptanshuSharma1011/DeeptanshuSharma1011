@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/deeptanshus_10" target="blank"><img align="center" src="(https://cdn.simpleicons.org/x)" alt="X" height="30" width="40" /></a>
+<a href="https://twitter.com/deeptanshus_10" target="blank"><img align="center" src="https://cdn.simpleicons.org/x/ffffff" alt="X" height="30" width="40" /></a>
 <a href="www.linkedin.com/in/deeptanshu-sharma-5814672b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://instagram.com/deepu.shrma10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
@@ -43,7 +43,6 @@
      <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Python Libraries:</td>
     <td>
-        <img height="40" src="https://skillicons.dev/icons?i=python" />
         <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
         <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
         <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
