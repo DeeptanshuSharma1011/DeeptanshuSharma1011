@@ -53,7 +53,6 @@
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Deployment:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=vercel,netlify"/>
-            <img height="40" src="https://tiiny.host/logo-purple.jpg" width="40" style="margin-left: 10px;">
         </td>
     </tr>
     <tr>
@@ -63,8 +62,6 @@
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=figma,notion"/>
-            <img height="40" src="https://framerusercontent.com/images/TvJ9grdPgk3sRz6T6XwkpBrFr4k.png?scale-down-to=512" width="40" style="margin-left: 10px;">
-            <img height="40" src="https://play-lh.googleusercontent.com/U4LDRU0MPf22CUPk6jRXO1JW4uuoRoGePkHxUp097T_K-wAUsdhe6PZs8XJZ5_LA8KA" width="40" style="margin-left: 10px;">
         </td>
     </tr>
 </table>
