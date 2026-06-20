@@ -24,7 +24,7 @@
 <table align="center">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=js,java,c,cpp,python"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=js,c,cpp,python"/></td>
     </tr>
       <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
@@ -43,7 +43,7 @@
      <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Python Frameworks:</td>
     <td>
-        <img height="40" src="https://skillicons.dev/icons?i=flask"/>
+        <img height="40" src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn"/>
     </td>
 </tr>
     <tr>
@@ -58,11 +58,11 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,replit"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,cursor,antigravity,googleaistudio"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=figma,webflow,notion"/>
+        <td><img height="40" src="https://skillicons.dev/icons?i=figma,notion"/>
             <img height="40" src="https://framerusercontent.com/images/TvJ9grdPgk3sRz6T6XwkpBrFr4k.png?scale-down-to=512" width="40" style="margin-left: 10px;">
             <img height="40" src="https://play-lh.googleusercontent.com/U4LDRU0MPf22CUPk6jRXO1JW4uuoRoGePkHxUp097T_K-wAUsdhe6PZs8XJZ5_LA8KA" width="40" style="margin-left: 10px;">
         </td>
