@@ -47,7 +47,7 @@
         <img height="40" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnOVjTWaheo4E99cgYZ6y14tpsgHlm0VN8Hw&s](https://techicons.dev/icons/pandas)" width="40" style="margin-left: 10px;">
         <img height="40" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnOVjTWaheo4E99cgYZ6y14tpsgHlm0VN8Hw&s](https://seeklogo.com/vector-logo/398690/numpy)" width="40" style="margin-left: 10px;">
         <img height="40" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnOVjTWaheo4E99cgYZ6y14tpsgHlm0VN8Hw&s](https://commons.wikimedia.org/wiki/File:Matplotlib_icon.svg)" width="40" style="margin-left: 10px;">
-        <img height="40" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnOVjTWaheo4E99cgYZ6y14tpsgHlm0VN8Hw&s](https://commons.wikimedia.org/wiki/File:Logo-seaborn.png)" width="40" style="margin-left: 10px;">
+        <img height="40" src="[[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnOVjTWaheo4E99cgYZ6y14tpsgHlm0VN8Hw&s](https://commons.wikimedia.org/wiki/File:Logo-seaborn.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Logo-seaborn.png/330px-Logo-seaborn.png)" width="40" style="margin-left: 10px;">
     </td>
 </tr>
     <tr>
