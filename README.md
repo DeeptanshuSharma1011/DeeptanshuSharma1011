@@ -36,7 +36,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mongodb,mysql,supabase"/>
             <img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnOVjTWaheo4E99cgYZ6y14tpsgHlm0VN8Hw&s" width="40" style="margin-left: 10px;">
         </td>
     </tr>
