@@ -36,7 +36,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,postgres,oracle,sqlite"/>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,postgres,sqlite"/>
             <img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnOVjTWaheo4E99cgYZ6y14tpsgHlm0VN8Hw&s" width="40" style="margin-left: 10px;">
         </td>
     </tr>
@@ -47,7 +47,7 @@
         <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
         <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
         <img height="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
-        <img height="40" src="https://skillicons.dev/icons?i=pytorch,scikit-learn,tensorflow"/>
+        <img height="40" src="https://skillicons.dev/icons?i=pytorch,scikit_learn,tensorflow"/>
     </td>
 </tr>
     <tr>
