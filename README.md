@@ -47,7 +47,7 @@
         <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
         <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
         <img height="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
-        <img height="40" src="https://commons.wikimedia.org/wiki/File:Scikit_learn_logo_small.svg" />
+        <img height="40" src="https://techicons.dev/icons/scikitlearn" />
         <img height="40" src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
     </td>
 </tr>
