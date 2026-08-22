@@ -28,15 +28,15 @@
     </tr>
       <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nextjs,react,html,css"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,postman"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,postman,kafka"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mongodb,mysql,supabase"/>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,postgres,oracle,sqlite"/>
             <img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnOVjTWaheo4E99cgYZ6y14tpsgHlm0VN8Hw&s" width="40" style="margin-left: 10px;">
         </td>
     </tr>
@@ -47,6 +47,7 @@
         <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
         <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
         <img height="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
+        <img height="40" src="https://skillicons.dev/icons?i=pytorch,scikit-learn,tensorflow"/>
     </td>
 </tr>
     <tr>
@@ -70,7 +71,7 @@
 </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=figma,notion"/>
+        <td><img height="40" src="https://skillicons.dev/icons?i=figma,notion,framer"/>
         </td>
     </tr>
 </table>
