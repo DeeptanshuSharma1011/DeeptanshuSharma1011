@@ -1,4 +1,4 @@
-![logo](https://github.com/DeeptanshuSharma1011/DeeptanshuSharma1011/blob/main/github%20banner.png)
+![logo](github banner.png)
 <h1 align="center">Hi 👋, I'm Deeptanshu Sharma</h1>
 <h3 align="center">A Data Engineer from India</h3>
 
